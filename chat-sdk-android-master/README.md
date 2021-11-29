@@ -1,6 +1,9 @@
 # Chat SDK for Android v5
 ### Open Source Messaging framework for Android
 
+
+
+
 ![Main Image](https://media.giphy.com/media/L05Bq9WHSP3PUH6uTF/giphy.gif)
 
 Chat SDK is a fully featured open source instant messaging framework for Android. Chat SDK is fully featured, scalable and flexible and follows the following key principles:
