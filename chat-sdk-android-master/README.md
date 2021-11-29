@@ -1,7 +1,5 @@
 # Chat SDK for Android v5
-### Open Source Messaging framework for Android
-
-
+### Open Source Messaging framework for Androi
 
 
 ![Main Image](https://media.giphy.com/media/L05Bq9WHSP3PUH6uTF/giphy.gif)
